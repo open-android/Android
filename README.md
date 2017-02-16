@@ -2,17 +2,16 @@ GitHub上最火的Android开源项目
 # 第一部分自定义控件
 
 
-  * [WheelPicker](https://github.com/open-android/WheelPicker)
+* [WheelPicker](https://github.com/open-android/WheelPicker)
 
-  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
+* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
   
   ![](http://upload-images.jianshu.io/upload_images/4037105-8912f53fe31032cb.gif?imageMogr2/auto-orient/strip)
   
  
   
   
-  
- * [Android-DivergeView2](https://github.com/open-android/Android-DivergeView2)
+* [Android-DivergeView2](https://github.com/open-android/Android-DivergeView2)
   
 ![](http://upload-images.jianshu.io/upload_images/4037105-7116863716821337.gif?imageMogr2/auto-orient/strip) 
 
