@@ -35,7 +35,7 @@ GitHub上最火的Android开源项目
  * [uCrop](https://github.com/open-android/uCrop)
  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3acfe4df022b&vId=8a2c9bed5a3a4c7e015a3a66a8f40003&videoId=D3C4DA48E22706169C33DC5901307461)
   
-![](http://upload-images.jianshu.io/upload_images/4037105-36f8d5bd0edbf147.gif?imageMogr2/auto-orient/strip)
+![](http://upload-images.jianshu.io/upload_images/4037105-d46100e5961fff46.gif?imageMogr2/auto-orient/strip)
 
 
 
