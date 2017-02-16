@@ -2,13 +2,14 @@ GitHub上最火的Android开源项目
 # 第一部分自定义控件
 
 
-* [WheelPicker](https://github.com/open-android/WheelPicker)
+  * [WheelPicker](https://github.com/open-android/WheelPicker)
 
-* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
+  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ad9dfdf030e&vId=8a2c9bed5a3a4c7e015a3ab4fe0601bb&videoId=F94BC8E95143C10D9C33DC5901307461)
   
   ![](http://upload-images.jianshu.io/upload_images/4037105-8912f53fe31032cb.gif?imageMogr2/auto-orient/strip)
   
  
+  
   
   
 * [Android-DivergeView2](https://github.com/open-android/Android-DivergeView2)
@@ -27,7 +28,7 @@ GitHub上最火的Android开源项目
  * [PullToRefresh](https://github.com/open-android/PullToRefresh)
  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3a64deae0002&vId=8a2c9bed5a3a4c7e015a3b0d2f19077b&videoId=5738119AAE4197C89C33DC5901307461)
  
-   ![](http://upload-images.jianshu.io/upload_images/4037105-0b1e403101710584.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/4037105-f14baf5a661b9b2d.gif?imageMogr2/auto-orient/strip)
 
 
 
