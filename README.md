@@ -3,6 +3,9 @@ GitHub上最火的Android开源项目持续更新中......
 github最大的痛点在于，拿到开源项目不会用，导入各种报错，readme看不懂，推荐给大家一个链接，所有的
 项目都亲测没有问题并且全部配置了详细的步骤和配套视频进行解说，欢迎大家star。https://github.com/open-android/Android
 
+欢迎关注微信公众号、长期为您推荐优秀博文、开源项目、视频
+![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
+
 # 第一部分自定义控件
 
 
