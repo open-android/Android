@@ -262,7 +262,7 @@
 
 # 第六部分数据库
 
- * [GreenDao](https://github.com/open-android/GreenDao)
+ * [GreenDao](https://github.com/open-android/GreenDao3.2)
  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a9bdf305a3a4c00015a5008c0b900b0&chapterId=8a9bdf305a3a4c00015a5008fcca00b1&vId=8a9bdf305a3a4c00015a500a10a300b2&videoId=5665D92F3A2D1BFA9C33DC5901307461)
 
 
