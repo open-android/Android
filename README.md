@@ -8,7 +8,9 @@
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
 
-* 项目案例十分钟人人能学会开发开源中国
+# 项目案例
+
+* 十分钟人人能学会开发开源中国
 
 ![](http://upload-images.jianshu.io/upload_images/4037105-33d2e685655eec90.gif?imageMogr2/auto-orient/strip)
 
