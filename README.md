@@ -14,8 +14,8 @@
 
 * [配套视频](https://www.boxuegu.com/web/html/payCourseDetailPage.html?id=233&courseType=1&free=0)
 
-![](http://upload-images.jianshu.io/upload_images/4037105-33d2e685655eec90.gif?imageMogr2/auto-orient/strip)
 
+  ![](http://upload-images.jianshu.io/upload_images/4037105-33d2e685655eec90.gif?imageMogr2/auto-orient/strip)
 
 
 
