@@ -92,8 +92,7 @@
 
 * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a4aa700eb0a2a&chapterId=8a2c9bed5a3a4c7e015a4aa767150a2b&vId=8a2c9bed5a3a4c7e015a4aa7ad870a2c&videoId=D9C78456B7F047A79C33DC5901307461)
   
- 
- ![](http://upload-images.jianshu.io/upload_images/4037105-2db88cd350e18c7d.png) 
+![](http://upload-images.jianshu.io/upload_images/4037105-30331e481fb8d6a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
   
   
 
