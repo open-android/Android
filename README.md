@@ -87,6 +87,15 @@
  * [LeakCanary](https://github.com/open-android/LeakCanaryDemo) 内存泄漏检测工具
  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a9bdf305a3a4c00015a500b7aac01d2&chapterId=8a9bdf305a3a4c00015a500ba7db01d3&vId=8a9bdf305a3a4c00015a500bf5120263&videoId=C51690BA657EBB359C33DC5901307461)
   
+  
+* [jsoup](https://github.com/open-android/jsoup) 网页解析器
+
+* [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a4aa700eb0a2a&chapterId=8a2c9bed5a3a4c7e015a4aa767150a2b&vId=8a2c9bed5a3a4c7e015a4aa7ad870a2c&videoId=D9C78456B7F047A79C33DC5901307461)
+  
+ 
+ ![](http://upload-images.jianshu.io/upload_images/4037105-2db88cd350e18c7d.png) 
+  
+  
 
   * [pinyin4j](https://github.com/open-android/pinyin4j) 拼音汉字互转
   * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a4aa63c6309a4&chapterId=8a2c9bed5a3a4c7e015a4aa6800909a5&vId=8a2c9bed5a3a4c7e015a4aa6b4a609a6&videoId=170FDD1C8418EF049C33DC5901307461)
@@ -95,12 +104,9 @@
 
 
 
-  * [jsoup](https://github.com/open-android/jsoup) 网页解析器
-  * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a4aa700eb0a2a&chapterId=8a2c9bed5a3a4c7e015a4aa767150a2b&vId=8a2c9bed5a3a4c7e015a4aa7ad870a2c&videoId=D9C78456B7F047A79C33DC5901307461)
-  
 
 
-![](http://upload-images.jianshu.io/upload_images/4037105-2db88cd350e18c7d.png)
+
   
   * [Gson](https://github.com/open-android/Gson)
   * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3ad9a490030d&chapterId=8a2c9bed5a3a4c7e015a3ab4a8fc01ba&vId=8a2c9bed5a3a4c7e015a3bddf83c0862&videoId=43F77AE0DB66FB6C9C33DC5901307461)
