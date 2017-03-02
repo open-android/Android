@@ -12,6 +12,8 @@
 
 * 十分钟人人能学会开发开源中国
 
+![](http://upload-images.jianshu.io/upload_images/4037105-8f9dc44300edb34c.gif?imageMogr2/auto-orient/strip)
+
 ### 整个项目视频如下：
 
 * [一行代码开发开源中国资讯页面](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a6e0131015a6e111a970002&vId=8a2c9bed5a6e0131015a6e1169a60003&videoId=AFE61662CFFD9A6F9C33DC5901307461)
@@ -50,24 +52,30 @@
 
 
 
-![](http://upload-images.jianshu.io/upload_images/4037105-8f9dc44300edb34c.gif?imageMogr2/auto-orient/strip)
-
-
-
-
-# 第一部分联网引擎:https://github.com/open-android/Android2
 
 
 
 
 
-# 第二部分自定义控件:https://github.com/open-android/Android1
+# 第一部分联网引擎:
+
+  https://github.com/open-android/Android2
 
 
 
 
 
-# 第三部分音视频:https://github.com/open-android/Android3
+# 第二部分自定义控件:
+
+  https://github.com/open-android/Android1
+
+
+
+
+
+# 第三部分音视频:
+
+  https://github.com/open-android/Android3
 
  
   
