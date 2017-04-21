@@ -28,10 +28,10 @@
 * [一分钟完成博客](https://v.qq.com/x/page/c0380241trz.html)
 
 
-* [一分钟完成详情页面](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a75fd9d015a827b27c102e5&vId=8a2c9bed5a75fd9d015a827f9e0a02f1&videoId=C502A9440F46BAE19C33DC5901307461)
+* [一分钟完成详情页面](https://v.qq.com/x/page/k03950ywjdm.html)
 
 
-* [一分钟解析XML](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a75fd9d015a827b921002e6&vId=8a2c9bed5a75fd9d015a827fcc3c02f3&videoId=35BA94C9F72B38AA9C33DC5901307461)
+* [一分钟解析XML](https://v.qq.com/x/page/r03959jvnjm.html)
 
 * [一分钟完成详情相关软件](https://v.qq.com/x/page/f0380qhwr2y.html)
 
