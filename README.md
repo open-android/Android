@@ -16,16 +16,16 @@
 
 ### 整个项目视频如下：
 
-* [一行代码开发开源中国资讯页面](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a6e0131015a6e111a970002&vId=8a2c9bed5a6e0131015a6e1169a60003&videoId=AFE61662CFFD9A6F9C33DC5901307461)
+* [一行代码开发开源中国资讯页面](https://v.qq.com/x/page/x0377kx11yw.html)
 
-* [一分钟给RecyView添加head](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a6e0131015a6e111a970002&vId=8a2c9bed5a6e0131015a6e13198a0009&videoId=4634B8D6F1CFC0BF9C33DC5901307461)
+* [一分钟给RecyView添加head](https://v.qq.com/x/page/w0377wywkal.html)
 
-* [一行代码实现轮播图](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a6e0131015a6e1243de0004&vId=8a2c9bed5a6e0131015a6e12f9b60008&videoId=C4070F2D3A9616119C33DC5901307461)
+* [一行代码实现轮播图](https://v.qq.com/x/page/p03772kw9rp.html)
 
 
-* [一分钟实现下拉刷新和加载更多数据](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a6e0131015a6e12733c0005&vId=8a2c9bed5a6e0131015a6e12bcb90007&videoId=00E61E49D96FAD339C33DC5901307461)
+* [一分钟实现下拉刷新和加载更多数据](https://v.qq.com/x/page/z0379qf8zwm.html)
 
-* [一分钟完成博客](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a6e0131015a6e1297d30006&vId=8a2c9bed5a75fd9d015a827f677602ef&videoId=E8DEB622F3390D919C33DC5901307461)
+* [一分钟完成博客](https://v.qq.com/x/page/c0380241trz.html)
 
 
 * [一分钟完成详情页面](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a75fd9d015a827b27c102e5&vId=8a2c9bed5a75fd9d015a827f9e0a02f1&videoId=C502A9440F46BAE19C33DC5901307461)
@@ -33,11 +33,11 @@
 
 * [一分钟解析XML](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a75fd9d015a827b921002e6&vId=8a2c9bed5a75fd9d015a827fcc3c02f3&videoId=35BA94C9F72B38AA9C33DC5901307461)
 
-* [一分钟完成详情相关软件](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a75fd9d015a827c297202e7&vId=8a2c9bed5a75fd9d015a827feb5a02f5&videoId=1882BCF4BA2A7C909C33DC5901307461)
+* [一分钟完成详情相关软件](https://v.qq.com/x/page/f0380qhwr2y.html)
 
 
 
-* [一分钟完成评论盖楼](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a75fd9d015a827c863d02e8&vId=8a2c9bed5a75fd9d015a82800eb502f7&videoId=8C12658F0FE7E1EC9C33DC5901307461)
+* [一分钟完成评论盖楼](https://v.qq.com/x/page/d0380vt15sw.html)
 
 
 * [一分钟登录](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a75fd9d015a827cfc2702e9&vId=8a2c9bed5a75fd9d015a828048e302f9&videoId=5B1EA8105F51168E9C33DC5901307461)
@@ -48,12 +48,25 @@
 
 * [一分钟发布评论](https://www.boxuegu.com/web/html/video.html?courseId=233&sectionId=8a2c9bed5a6e0131015a6e10e1a20001&chapterId=8a2c9bed5a75fd9d015a827de4a402eb&vId=8a2c9bed5a75fd9d015a8280832d02fd&videoId=2F889388DC78D8849C33DC5901307461)
 
+* [一分钟抓包](https://v.qq.com/x/page/f038221p7j2.html)
 
 
 
 
+* Android面试题
+
+![](http://upload-images.jianshu.io/upload_images/4037105-4437ab22b7af3cc8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![](http://upload-images.jianshu.io/upload_images/4037105-22abf62d3d9f68a5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![](http://upload-images.jianshu.io/upload_images/4037105-6838fa267298201a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+![](http://upload-images.jianshu.io/upload_images/4037105-c8d1161109029383.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 整个面试题视频如下(持续更新中)：
+
+* [1Davik进程linux进程线程之间的区别](https://v.qq.com/x/page/a03916l1n7h.html)
 
 
 
