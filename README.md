@@ -225,7 +225,7 @@
 
 # 第五部分图片加载
 
-   * [Picasso](https://github.com/open-android/Gson)
+   * [Picasso](https://github.com/open-android/Picasso)
    * [配套视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3affe39a046a&vId=8a2c9bed5a3a4c7e015a3b0451f105b8&videoId=B33E67E868CDB1D19C33DC5901307461)
    
    ![](http://upload-images.jianshu.io/upload_images/4037105-ece55ae2ca9b3003.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
