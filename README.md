@@ -133,6 +133,35 @@
 
 * [27- 应用程序的开发流程](https://v.qq.com/x/page/v0395agrpdw.html)
 
+* [28- ViewPager加载页面过多bug演示](https://v.qq.com/x/page/n0501ylwqx1.html)
+
+* [29- ViewPager加载页面过多方案解决](https://v.qq.com/x/page/g05012qi6hs.html)
+
+* [30- 静默安装](https://v.qq.com/x/page/k0501fbjwcv.html)
+
+* [31- Android源码编译](https://v.qq.com/x/page/f0501jbulwc.html)
+
+
+#### 源码相关试题
+
+* [32- Volley源码一](https://v.qq.com/x/page/s05002geql6.html)
+
+* [33- Volley源码二](https://v.qq.com/x/page/h05002uijux.html)
+
+* [34- Volley源码三](https://v.qq.com/x/page/c05005gcs36.html)
+
+* [35- OkHttp3源码一](https://v.qq.com/x/page/j050015e4sm.html)
+
+* [36- OkHttp3源码二](https://v.qq.com/x/page/i05006qtood.html)
+
+* [37- OkHttp3源码三](https://v.qq.com/x/page/y0500461od9.html)
+
+* [38- 注解框架原理](https://v.qq.com/x/page/l0397qgxmkc.html)
+
+* [39- Context原理](https://v.qq.com/x/page/y0396os8vc6.html)
+
+* [40- App启动优化](https://v.qq.com/x/page/v0396aro8d1.html)
+
 
 
 # 第一部分联网引擎:
