@@ -163,6 +163,21 @@
 * [40- App启动优化](https://v.qq.com/x/page/v0396aro8d1.html)
 
 
+### Android系统定制配套视频：
+* [android系统定制-初识源码级开发](http://www.365yg.com/item/6432791134493213186/)
+* [android系统定制-Vbox及Ubuntu的安装](http://toutiao.com/item/6432821122323972610/)
+* [android系统定制-常见Linux命令介绍-上](http://toutiao.com/item/6432823051523457538/)
+* [android系统定制-常见Linux命令介绍-下](http://toutiao.com/item/6432826510821818881/)
+* [android系统定制-OpenJDK和依赖包的安装&配置USB访问权限](http://www.365yg.com/item/6434362415713878530/)
+* [android系统定制-其他可选配置介绍](http://www.365yg.com/item/6434633590172025346/)
+* [android系统定制-AOSP源码的下载](http://toutiao.com/item/6434633933505167873/)
+* [android系统定制-Repo的工作原理](http://toutiao.com/item/6434640927519670785/)
+* [android系统定制-源码下载的其他配置](http://www.365yg.com/item/6435007280990650881/)
+* [android系统定制-Nexus驱动的下载安装&源码编译](http://toutiao.com/item/6435007754082976258/)
+* [android系统定制-编译结果展示&刷机介绍&Android系统分区&out目录介绍](http://toutiao.com/item/6436594902649274881/)
+* [android系统定制-AOSP下的一些常用命令](http://toutiao.com/item/6436590437795889665/)
+* [android系统定制-AOSP常见工作目录介绍](http://www.365yg.com/item/6436589910819340801/)
+
 
 # 第一部分联网引擎:
 
