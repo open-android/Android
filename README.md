@@ -141,6 +141,16 @@
 
 * [31- Android源码编译](https://v.qq.com/x/page/f0501jbulwc.html)
 
+* [50- TTF修改文本字体](http://www.365yg.com/item/6432842632887534081/)
+
+* [51- Sharesdk使用详细步骤](http://www.365yg.com/item/6432184209137205762/)
+
+* [52- 屏幕适配](http://www.365yg.com/item/6432175406685618689/)
+
+* [53- 接口回调](http://www.365yg.com/item/6432150647491002881/)
+
+* [54- XML转成VIEW原理](http://www.365yg.com/item/6432148274416714242/)
+
 
 #### 源码相关试题
 
