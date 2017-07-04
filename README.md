@@ -177,7 +177,20 @@
 * [android系统定制-编译结果展示&刷机介绍&Android系统分区&out目录介绍](http://toutiao.com/item/6436594902649274881/)
 * [android系统定制-AOSP下的一些常用命令](http://toutiao.com/item/6436590437795889665/)
 * [android系统定制-AOSP常见工作目录介绍](http://www.365yg.com/item/6436589910819340801/)
-
+* [android系统定制-AndroidBuildSystem介绍](http://www.toutiao.com/i6436361010902204929/)
+* [android系统定制-系统开发做什么](http://www.toutiao.com/i6436848445700440578/)
+* [android系统定制-Android系统启动流程-从Init到Zygote](http://www.toutiao.com/i6436589000256913921/)
+* [android系统定制-Android系统启动流程-从syste_server到Launcher](http://www.toutiao.com/i6436849268975206913/)
+* [android系统定制-修改系统APP后进行编译](http://www.toutiao.com/i6436850885292196353/)
+* [android系统定制-Dalvik&ART的区别及ODEX文件介绍](http://www.toutiao.com/i6436851843262841346/)
+* [android系统定制-编译时odex化的原因](http://www.toutiao.com/i6436852898566504962/)
+* [android系统定制-修改Calclator.apk代码并运行](http://www.toutiao.com/i6436853799767245314/)
+* [android系统定制-Framework定制及Mac环境介绍](http://www.toutiao.com/i6436853139567018498/)
+* [android系统定制-services.jar&framework.jar的修改与运行](http://www.toutiao.com/i6436857505522909698/)
+* [android系统定制-libandroid_runtime.so(JNI层)的修改与运行](http://www.toutiao.com/i6436857259367596545/)
+* [android系统定制-liblog.so(native层)的修改与编译](http://www.toutiao.com/i6436857357145211394/)
+* [android系统定制-系统开发实战回顾](http://www.toutiao.com/i6436859125199536641/)
+* [android系统定制-系统级开发的职业发展](http://www.toutiao.com/i6436351531619975682/)
 
 # 第一部分联网引擎:
 
