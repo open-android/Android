@@ -92,97 +92,128 @@ http://www.365yg.com/item/6445772006804685326/
 
 http://www.365yg.com/item/6445776370827002382/
 
-21_kotlin函数和函数式表达式
+* 21_kotlin函数和函数式表达式
+
 http://www.365yg.com/item/6445777260019450382/
 
-22_kotlin默认参数和具名参数
+* 22_kotlin默认参数和具名参数
+
 http://www.365yg.com/item/6445778515232031245/
 
-23_kotlin字符串和数字之间的转换
+* 23_kotlin字符串和数字之间的转换
+
 http://www.365yg.com/item/6445779198962303501/
 
-24_kotlin人机交互
+* 24_kotlin人机交互
+
 http://www.365yg.com/item/6445780073856369165/
 
-25_kotlin异常处理
+* 25_kotlin异常处理
+
 http://www.365yg.com/item/6445781489274585613/
 
-26_kotlin递归
+* 26_kotlin递归
+
 http://www.365yg.com/item/6445782843170750990/
 
-27_kotlin尾递归优化
+* 27_kotlin尾递归优化
+
 http://www.365yg.com/item/6445785393433412110/
 
-28_kotlin新的篇章idea使用入门
+* 28_kotlin新的篇章idea使用入门
+
 http://www.365yg.com/item/6445786897338860045/
 
-29_kotlin面向对象入门
+* 29_kotlin面向对象入门
+
 http://www.365yg.com/item/6445788208776086029/
 
-30_kotlin静态属性和动态行为
+* 30_kotlin静态属性和动态行为
+
 http://www.365yg.com/item/6445788927897895438/
 
-31_kotlin面向对象概念入门
+* 31_kotlin面向对象概念入门
+
 http://www.365yg.com/item/6445789963647713806/
 
-32_kotlin面向对象实战
+* 32_kotlin面向对象实战
+
 http://www.365yg.com/item/6445800737300546061/
 
-33_kotlin面向对象实战-洗衣机升级
+* 33_kotlin面向对象实战-洗衣机升级
+
 http://www.365yg.com/item/6445795869391323661/
 
-34_kotlin面向对象实战-封装
+* 34_kotlin面向对象实战-封装
+
 http://www.365yg.com/item/6445796836392305166/
 
-35_kotlin面向对象-继承(open和override)
+* 35_kotlin面向对象-继承(open和override)
+
 http://www.365yg.com/item/6445798149792465422/
 
-36_kotlin抽象类和继承
+* 36_kotlin抽象类和继承
+
 http://www.365yg.com/item/6445799199903580686/
 
-37_kotlin面向对象-多态
+* 37_kotlin面向对象-多态
+
 http://www.365yg.com/item/6445799900012610061/
 
-38_kotlin面向对象-抽象类和接口
+* 38_kotlin面向对象-抽象类和接口
+
 http://www.365yg.com/item/6445803237701321230/
 
-39_kotlin面向对象-委托和代理
+* 39_kotlin面向对象-委托和代理
+
 http://www.365yg.com/item/6445804765518496269/
 
-40_kotlin面向对象-单例模式
+* 40_kotlin面向对象-单例模式
+
 http://www.365yg.com/item/6445805583856566797/
 
-41_kotlin面向对象-枚举
+* 41_kotlin面向对象-枚举
+
 http://www.365yg.com/item/6445806126301708814/
 
-42_kotlin面向对象-密封类
+* 42_kotlin面向对象-密封类
+
 http://www.365yg.com/item/6445807030564291085/
 
-43_kotlin后续录制计划
+* 43_kotlin后续录制计划
+
 http://www.365yg.com/item/6445807663321186830/
 
-44_kotlin闭包(closure)
+* 44_kotlin闭包(closure)
+
 http://www.365yg.com/item/6446657322759488014/
 
-45_kotlin函数式编程入门
+* 45_kotlin函数式编程入门
+
 http://www.365yg.com/item/6447022080331350541/
 
-46_kotlin图片处理
+* 46_kotlin图片处理
+
 http://www.365yg.com/item/6448890155515249165/
 
-48_kotlin高阶函数实战（传统函数演示）
+* 48_kotlin高阶函数实战（传统函数演示）
+
 http://toutiao.com/item/6451475254085681677/
 
-49_kotlin高阶函数实战（传统需求实现的缺点）
+* 49_kotlin高阶函数实战（传统需求实现的缺点）
+
 http://toutiao.com/item/6451475398579454477/
 
-50_kotlin高阶函数实战(3)
+* 50_kotlin高阶函数实战(3)
+
 http://toutiao.com/item/6451477425070014989/
 
-51_kotlin高阶函数实战-自定义dsl入门
+* 51_kotlin高阶函数实战-自定义dsl入门
+
 http://toutiao.com/item/6451483115935236622/
 
-更多高阶课程, 请参考腾讯课堂
+* 更多高阶课程, 请参考腾讯课堂
+
 https://ke.qq.com/course/233042
 
 
