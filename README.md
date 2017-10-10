@@ -12,64 +12,84 @@
 
 ### Kotlin视频学习
 
-01-课程介绍
+* 01-课程介绍
+
 http://www.365yg.com/item/6445599306496868878/
 
-02_kotlin学习方法
+* 02_kotlin学习方法
+
 http://www.365yg.com/item/6445599300020863502/
 
-03_kotlin选好教练车
+* 03_kotlin选好教练车
+
 http://www.365yg.com/item/6445599302214484494/
 
-04_kotlin你好世界
+* 04_kotlin你好世界
+
 http://www.365yg.com/item/6445599304320025102/
 
-05_kotlin变量与输出
+* 05_kotlin变量与输出
+
 http://www.365yg.com/item/6445599310758281741/
 
-06_kotlin二进制基础
+* 06_kotlin二进制基础
+
 http://www.365yg.com/item/6445599308682101262/
 
-07_kotlin变量和常量 类型推断
+* 07_kotlin变量和常量 类型推断
+
 http://www.365yg.com/item/6445599315044860429/
 
-08_kotlin变量取值范围
+* 08_kotlin变量取值范围
+
 http://www.365yg.com/item/6445599360783745550/
 
-09_kotlin函数入门
+* 09_kotlin函数入门
+
 http://www.365yg.com/item/6445599317150401037/
 
-10_kotlin语言boolean
+* 10_kotlin语言boolean
+
 http://www.365yg.com/item/6445599312981262862/
 
-11_kotlin命令行交互式终端
+* 11_kotlin命令行交互式终端
+
 http://www.365yg.com/item/6445601227924308494/
 
-12_kotlin函数加强
+* 12_kotlin函数加强
+
 http://www.365yg.com/item/6445601229983711757/
 
-13_kotlin函数作业讲解
+* 13_kotlin函数作业讲解
+
 http://www.365yg.com/item/6445601232097640974/
 
-14_kotlin字符串模版
+* 14_kotlin字符串模版
+
 http://www.365yg.com/item/6445601234282873357/
 
-15_kotlin条件控制if和else
+* 15_kotlin条件控制if和else
+
 http://www.365yg.com/item/6445601236556186126/
 
-16_kotlin字符串比较
+* 16_kotlin字符串比较
+
 http://www.365yg.com/item/6445751177232515597/
 
-17_kotlin空值处理
+* 17_kotlin空值处理
+
 http://www.365yg.com/item/6445752054030795278/
 
-18_kotlin的when表达式
+* 18_kotlin的when表达式
+
 http://www.365yg.com/item/6445754613458010638/
 
-19_kotlin的loop和Range
+* 19_kotlin的loop和Range
+
 http://www.365yg.com/item/6445772006804685326/
 
-20_kotlin的list和map入门
+* 20_kotlin的list和map入门
+
 http://www.365yg.com/item/6445776370827002382/
 
 21_kotlin函数和函数式表达式
